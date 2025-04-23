@@ -7,7 +7,7 @@
 <div style="display: flex; gap: 10px; justify-content: center; align-items: center;">
   <img src="https://plus.unsplash.com/premium_photo-1667358091118-29e916ddbcc5?q=80&w=1887&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt="Perro feliz" style="width: 33%; border-radius: 8px;">
   <img src="https://plus.unsplash.com/premium_photo-1673967831980-1d377baaded2?q=80&w=1887&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt="Gato curioso" style="width: 33%; border-radius: 8px;">
-  <img src="https://plus.unsplash.com/premium_photo-1669673986444-3d8d63f74ab3?q=80&w=1887&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt="Ave colorida" style="width: 33%; border-radius: 8px;">
+  <img src="https://images.unsplash.com/photo-1445820200644-69f87d946277?q=80&w=1972&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt="Ave colorida" style="width: 33%; border-radius: 8px;">
 </div>
 
 Fotografías compartidas en Unsplash: [Perro](https://unsplash.com/photos/a-close-up-of-a-dog-with-blue-eyes-_8sDchNZGK0), [Gato](https://unsplash.com/photos/a-close-up-of-a-cat-looking-at-the-camera-Hzu0-51klr4), [Ave](https://unsplash.com/photos/a-bird-with-a-nut-in-its-mouth-qZXMqoGIbCc)
